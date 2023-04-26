@@ -19,7 +19,7 @@ role: PhD Candidate
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: The Ohio State University
-    url: https://www.stanford.edu/
+    
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm an environmental and regional economist interested in sustainable development. My research focuses on creating the first Inclusive Wealth Accounts at the regional level in the US to help policymakers create more sustainable communities. Read more about Inclusive Wealth and my research below. 
@@ -47,10 +47,10 @@ education:
 social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=EUd9kJYAAAAJ&hl=en&oi=sra
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/mackenzie-jones-743287106/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -65,5 +65,5 @@ email: 'jones.6342@osu.edu'
 highlight_name: true
 ---
 
-Mackenzie Jones is 
+I'm an environmental and regional economist interested in sustainable development. My research focuses on creating the first Inclusive Wealth Accounts at the regional level in the US to help policymakers create more sustainable communities. Read more about Inclusive Wealth and my research below. 
 {style="text-align: justify;"}
